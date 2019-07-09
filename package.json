@@ -1,6 +1,6 @@
 {
   "name": "wayfarer",
-  "homepage": "http://www.wayfarerband.com/",
+  "homepage": "http://www.wayfarerband.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
