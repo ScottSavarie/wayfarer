@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/wayfarer/static/css/main.109eeed9.chunk.css",
+    "main.js": "/wayfarer/static/js/main.ff21c827.chunk.js",
+    "main.js.map": "/wayfarer/static/js/main.ff21c827.chunk.js.map",
+    "runtime~main.js": "/wayfarer/static/js/runtime~main.b6643e24.js",
+    "runtime~main.js.map": "/wayfarer/static/js/runtime~main.b6643e24.js.map",
+    "static/js/2.08f4d5dd.chunk.js": "/wayfarer/static/js/2.08f4d5dd.chunk.js",
+    "static/js/2.08f4d5dd.chunk.js.map": "/wayfarer/static/js/2.08f4d5dd.chunk.js.map",
+    "index.html": "/wayfarer/index.html",
+    "precache-manifest.6eaab9fd66538c89057a44299c43d6b1.js": "/wayfarer/precache-manifest.6eaab9fd66538c89057a44299c43d6b1.js",
+    "service-worker.js": "/wayfarer/service-worker.js",
+    "static/css/main.109eeed9.chunk.css.map": "/wayfarer/static/css/main.109eeed9.chunk.css.map",
+    "static/media/bandcamp.svg": "/wayfarer/static/media/bandcamp.c60adaaa.svg",
+    "static/media/bg.jpg": "/wayfarer/static/media/bg.65f8f190.jpg",
+    "static/media/close.svg": "/wayfarer/static/media/close.4a6dea0c.svg",
+    "static/media/fb.svg": "/wayfarer/static/media/fb.70432671.svg",
+    "static/media/instagram.svg": "/wayfarer/static/media/instagram.d667e876.svg",
+    "static/media/play.svg": "/wayfarer/static/media/play.33704688.svg",
+    "static/media/spotify.svg": "/wayfarer/static/media/spotify.a3e78dd5.svg",
+    "static/media/twitter.svg": "/wayfarer/static/media/twitter.89eaa742.svg",
+    "static/media/youtube.svg": "/wayfarer/static/media/youtube.31700ff4.svg"
+  }
+}
