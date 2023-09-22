@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.0ac197eb.chunk.css",
+    "main.css": "/static/css/main.ecfcbf8c.chunk.css",
     "main.js": "/static/js/main.77dc676c.chunk.js",
     "main.js.map": "/static/js/main.77dc676c.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
@@ -8,9 +8,9 @@
     "static/js/2.1857569f.chunk.js": "/static/js/2.1857569f.chunk.js",
     "static/js/2.1857569f.chunk.js.map": "/static/js/2.1857569f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5fab176e6c3b298d977dfad6e110f6ca.js": "/precache-manifest.5fab176e6c3b298d977dfad6e110f6ca.js",
+    "precache-manifest.62db551579a232474ba3d5f94391d62a.js": "/precache-manifest.62db551579a232474ba3d5f94391d62a.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.0ac197eb.chunk.css.map": "/static/css/main.0ac197eb.chunk.css.map",
+    "static/css/main.ecfcbf8c.chunk.css.map": "/static/css/main.ecfcbf8c.chunk.css.map",
     "static/media/bandcamp.svg": "/static/media/bandcamp.c60adaaa.svg",
     "static/media/bg.jpg": "/static/media/bg.a38c8a5d.jpg",
     "static/media/close.svg": "/static/media/close.4a6dea0c.svg",
