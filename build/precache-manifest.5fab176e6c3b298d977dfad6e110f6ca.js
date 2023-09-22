@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9eeb8114dcdf5118beae345eaabb5f79",
+    "revision": "3dd3bb44de795104fb0492e0afdea2d0",
     "url": "/index.html"
   },
   {
-    "revision": "8aad6f8137f66759ccd6",
-    "url": "/static/css/main.109eeed9.chunk.css"
+    "revision": "ce96dd4316207adfdd36",
+    "url": "/static/css/main.0ac197eb.chunk.css"
   },
   {
-    "revision": "bf939ec5a5a33e209433",
-    "url": "/static/js/2.08f4d5dd.chunk.js"
+    "revision": "75f15be0ebd6de7babdb",
+    "url": "/static/js/2.1857569f.chunk.js"
   },
   {
-    "revision": "8aad6f8137f66759ccd6",
-    "url": "/static/js/main.f8472d60.chunk.js"
+    "revision": "ce96dd4316207adfdd36",
+    "url": "/static/js/main.77dc676c.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -24,20 +24,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/bandcamp.c60adaaa.svg"
   },
   {
-    "revision": "65f8f19034abf7c2ff2229cd46767804",
-    "url": "/static/media/bg.65f8f190.jpg"
+    "revision": "a38c8a5db14194d3233af0fe8b676432",
+    "url": "/static/media/bg.a38c8a5d.jpg"
   },
   {
     "revision": "4a6dea0cafe3a67f6cb1053624a958b2",
     "url": "/static/media/close.4a6dea0c.svg"
   },
   {
-    "revision": "7043267174e89189676f601039bd07cd",
-    "url": "/static/media/fb.70432671.svg"
-  },
-  {
     "revision": "d667e876d9dc146a65cfc2cc6eec8f19",
     "url": "/static/media/instagram.d667e876.svg"
+  },
+  {
+    "revision": "236a868c533d166207de2ea4c239b7c8",
+    "url": "/static/media/logoandtext.236a868c.png"
   },
   {
     "revision": "3370468873f08888ae6c1d3f4a454e12",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a3e78dd5f11aca7a80d1c828b2d0d5c3",
     "url": "/static/media/spotify.a3e78dd5.svg"
+  },
+  {
+    "revision": "caa64c1e778c63d352a5a35492768ee2",
+    "url": "/static/media/tiktok.caa64c1e.svg"
   },
   {
     "revision": "89eaa7422b26701cdfabbdf4fde0e5ee",
