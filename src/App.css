@@ -11,6 +11,10 @@ body {
   background: #251b3d;
 }
 
+img {
+  max-width: 100%;
+}
+
 .App {
   text-align: center;
   height: 100vh;
